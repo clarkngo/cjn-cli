@@ -263,7 +263,7 @@ void displayMessage()
 	Console::Write(L"1) View all details of employee, enter last name\n");
 	Console::Write(L"2) Modify detail of an employee, enter last name, attribute and new value\n");
 	Console::Write(L"3) Create new entry for employee, enter last name, first name, address, work phone, department\n");
-	Console::Write(L"3) Modify department location, enter department name\n");
+	Console::Write(L"4) Modify department location, enter department name\n");
 	Console::Write(L"5) Exit program\n");
 }
 
